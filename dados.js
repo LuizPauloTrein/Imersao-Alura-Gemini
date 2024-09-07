@@ -9,7 +9,7 @@ let dados = [
     {
         titulo: "Obi-Wan Kenobi",
         descricao: "Um dos mais renomados Cavaleiros Jedi da Ordem, Obi-Wan Kenobi é conhecido por sua sabedoria, compaixão e habilidades com o sabre de luz. Como Mestre Jedi, treinou AnakinSkywalker e lutou em diversas batalhas, incluindo as Guerras Clônicas. Sua lealdade à Ordem Jedi e à República sempre foi inabalável.",
-        link: "https://pt.wikipedia.org/wiki.org/wiki/Obi-Wan_Kenobi",
+        link: "https://pt.wikipedia.org/wiki/Obi-Wan_Kenobi",
         tags: "jedi, cavaleiro, guerras, clonicas"
     },
     
